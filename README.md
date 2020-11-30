@@ -7,7 +7,7 @@ git submodule add https://github.com/jfm0/arduino-esp32.git components/arduino
 git submodule add https://github.com/joltwallet/esp_littlefs.git components/esp_littlefs
 
 inside components/arduino:
-git submodule add https://github.com/jfm0/m5stack components/arduino/libraries/m5stack
+git submodule add https://github.com/jfm0/m5stack libraries/m5stack
 
 # Hello World Example
 
