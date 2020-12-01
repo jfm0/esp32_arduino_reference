@@ -8,6 +8,7 @@ git submodule add https://github.com/joltwallet/esp_littlefs.git components/esp_
 
 inside components/arduino:
 git submodule add https://github.com/jfm0/m5stack libraries/m5stack
+git submodule add https://github.com/jfm0/M5Core2 libraries/m5Core2
 
 # Hello World Example
 
